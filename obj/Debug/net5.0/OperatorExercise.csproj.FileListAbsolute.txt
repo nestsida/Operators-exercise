@@ -1,0 +1,15 @@
+C:\Users\gsida\Desktop\Repo\OperatorExercise\obj\Debug\net5.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsida\Desktop\Repo\OperatorExercise\obj\Debug\net5.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\gsida\Desktop\Repo\OperatorExercise\obj\Debug\net5.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\gsida\Desktop\Repo\OperatorExercise\obj\Debug\net5.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\gsida\Desktop\Repo\OperatorExercise\bin\Debug\net5.0\OperatorExercise.exe
+C:\Users\gsida\Desktop\Repo\OperatorExercise\bin\Debug\net5.0\OperatorExercise.deps.json
+C:\Users\gsida\Desktop\Repo\OperatorExercise\bin\Debug\net5.0\OperatorExercise.runtimeconfig.json
+C:\Users\gsida\Desktop\Repo\OperatorExercise\bin\Debug\net5.0\OperatorExercise.runtimeconfig.dev.json
+C:\Users\gsida\Desktop\Repo\OperatorExercise\bin\Debug\net5.0\OperatorExercise.dll
+C:\Users\gsida\Desktop\Repo\OperatorExercise\bin\Debug\net5.0\ref\OperatorExercise.dll
+C:\Users\gsida\Desktop\Repo\OperatorExercise\bin\Debug\net5.0\OperatorExercise.pdb
+C:\Users\gsida\Desktop\Repo\OperatorExercise\obj\Debug\net5.0\OperatorExercise.dll
+C:\Users\gsida\Desktop\Repo\OperatorExercise\obj\Debug\net5.0\ref\OperatorExercise.dll
+C:\Users\gsida\Desktop\Repo\OperatorExercise\obj\Debug\net5.0\OperatorExercise.pdb
+C:\Users\gsida\Desktop\Repo\OperatorExercise\obj\Debug\net5.0\OperatorExercise.genruntimeconfig.cache
